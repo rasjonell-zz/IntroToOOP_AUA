@@ -1,0 +1,8 @@
+package class02;
+import java.util.Scanner;
+
+public class Palindrome {
+	Scanner input = new Scanner(System.in);
+	
+	
+}

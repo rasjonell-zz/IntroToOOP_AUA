@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;hw01.Palindrome&apos; to &apos;FourDigitPalindrome&apos;&#x0A;- Original project: &apos;hw01&apos;&#x0A;- Original element: &apos;hw01.Palindrome&apos;&#x0A;- Renamed element: &apos;hw01.FourDigitPalindrome&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Palindrome&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;hw01{Palindrome.java[Palindrome" matchStrategy="1" name="FourDigitPalindrome" qualified="false" references="true" similarDeclarations="false" stamp="1516808471205" textual="false" version="1.0"/>
+</session>

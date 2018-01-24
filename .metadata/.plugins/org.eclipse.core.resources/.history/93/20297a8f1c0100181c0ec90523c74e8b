@@ -1,0 +1,16 @@
+package hw01;
+
+import java.util.Scanner;
+
+public class Palindrome {
+	
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String[] number = input.next();
+		input.close();
+		
+		System.out.println(number[0]);
+		
+	}
+
+}

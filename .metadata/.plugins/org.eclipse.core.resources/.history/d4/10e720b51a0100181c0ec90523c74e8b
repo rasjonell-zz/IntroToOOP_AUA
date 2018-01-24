@@ -1,0 +1,18 @@
+package hw01;
+
+import java.util.Scanner;
+
+public class OneMoreSecond {
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int full_time = input.nextInt();
+		int hours = full_time/10000;
+		int minutes = full_time/100 % 100;
+		int seconds = full_time % 100;
+		
+		System.out.println(hours);
+		System.out.println(minutes);
+		System.out.println(seconds);
+
+	}
+}

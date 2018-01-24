@@ -1,0 +1,12 @@
+package class02;
+
+import java.util.Scanner;
+
+public class PiGuess {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		int terms = input.nextInt();
+	}
+
+}
