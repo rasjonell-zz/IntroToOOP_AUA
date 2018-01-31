@@ -1,6 +1,0 @@
-package class02;
-
-public class Palindrome {
-	Scanner input = new Scanner(System.in);
-	
-}
