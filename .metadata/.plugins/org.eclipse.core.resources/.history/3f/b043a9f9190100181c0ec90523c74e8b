@@ -1,7 +1,0 @@
-package hw01;
-
-public class OneMoreSecond {
-	public static void main(String[] args) {
-		
-	}
-}
