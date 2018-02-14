@@ -6,6 +6,8 @@
 	</list>
 	<section name="ExternalProjectImportWizard">
 	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
 	<section name="org.eclipse.ui.internal.views.markers.FiltersConfigurationDialog">
 	</section>
 </section>

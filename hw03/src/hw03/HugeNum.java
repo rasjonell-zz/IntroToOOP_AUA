@@ -51,7 +51,7 @@ public class HugeNum {
     }
 
     private static boolean isDivisible_by8(String strNum) {
-        int lastThree = Integer.parseInt(strNum.substring(strNum.length()-3, strNum.length()));
+        int lastThree = Integer.parseInt(strNum.substring(strNum.length() - 3, strNum.length()));
 
         return lastThree % 8 == 0;
     }
@@ -114,7 +114,7 @@ public class HugeNum {
 
 
     public static String cyclic(int digit) {
-        
+        return "SOME STRING";
     }
 
     public static void main(String[] args) {
