@@ -72,7 +72,7 @@ public class HW04_Arrays {
       for(int j=0; j < restArr.length; j++) restArr[j] = array[offset + j];
       
       for(int k=0; k < array.length; k++) {
-        if(k < restArr.length) array[k] = restArr[k];
+        if(k < restArr.length) array	[k] = restArr[k];
         else array[k] = offsetArr[offset - array.length + k];
       }
     }
